@@ -2,7 +2,7 @@
 
 Comp Bio enthusiest
 
-Bash Rust Python R
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ## Academic research 🧬
 
@@ -10,12 +10,6 @@ Published and in-progress work from academia
 
 - **[Desmognathus_TE_analysis](https://github.com/Jakeelamb/Desmognathus_TE_analysis)** - 34-species *Desmognathus* TE evolution — repeat classification, divergence, PGLS, PERMANOVA, BM/OU, LTR age, figures (Python & R).
 - **[Heat_shock_protein_selection_analysis](https://github.com/Jakeelamb/Heat_shock_protein_selection_analysis)** - Master's work on heat-shock protein orthogroup selection across fish lineages.
-
-## Hox platform — data design & workflow speed 🏗️
-
-Rust-native stack inspired by high-throughput single-cell and alignment frameworks (HoxBio-style columnar I/O, bare-metal saturation, portable indexes).
-
-- **[hox-core](https://github.com/Jakeelamb/hox-core)** - Workspace crates (`hox-parse`, `hox-common`, `hox-graph`, `hox-align`, `hox-olap`) for mmap I/O, FM/minimizer indexes, alignment benches, and Arrow/Parquet-oriented outputs.
 
 ## Rust ports — legacy tools, measured rewrites 🦀
 
@@ -27,13 +21,14 @@ Benchmark-first ports: parity and honest timings before speed claims.
 - **[bbnorm-rs](https://github.com/Jakeelamb/bbnorm-rs)** - BBTools BBNorm-style read-depth normalization.
 - **[bio_format_speed](https://github.com/Jakeelamb/bio_format_speed)** - Reproducible checks for biological file-format overhead.
 
-## Original developments — assemblers & motif graphs 🧩
+## Developments and Research🧩
 
 Tools designed here, not ported from a single upstream binary.
 
 - **[orbweaver](https://github.com/Jakeelamb/orbweaver)** - Compact grammar-derived motif graphs from genomic FASTA; cross-species comparison with bounded memory.
 - **[Raptor](https://github.com/Jakeelamb/Raptor)** - Parallel graph-based RNA-seq assembler (k-mer extension, isoform graphs, optional GPU, HPC workflows).
-- **[motif_graph_explore](https://github.com/Jakeelamb/motif_graph_explore)** - Genomic motif complexity via assembly-theory-style analysis.
+- **[motif_graph_explore](https://github.com/Jakeelamb/motif_graph_explore)** - Genomic motif complexity via assembly-theory-style analysis. assemblers & motif graphs 
+- **[hox-core](https://github.com/Jakeelamb/hox-core)** - Workspace crates (`hox-parse`, `hox-common`, `hox-graph`, `hox-align`, `hox-olap`) for mmap I/O, FM/minimizer indexes, alignment benches, and Arrow/Parquet-oriented outputs.
 - **[genome-assembler-graph](https://github.com/Jakeelamb/genome-assembler-graph)** - Interactive map of modern assembly tools, inputs, outputs, and metrics.
 
 ## Terminal & HPC utilities 🌿
