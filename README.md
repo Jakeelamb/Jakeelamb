@@ -5,11 +5,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Nextflow](https://img.shields.io/badge/-Nextflow-24A148?style=flat-square)
-![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-194F45?style=flat-square)
-![Genomics](https://img.shields.io/badge/-Genomics-8F3F2F?style=flat-square)
-![HPC](https://img.shields.io/badge/-HPC-244C70?style=flat-square)
-![Reproducibility](https://img.shields.io/badge/-Reproducibility-AA7A2E?style=flat-square)
 
 
 ### Academic Research
