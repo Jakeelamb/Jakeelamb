@@ -41,7 +41,6 @@ Benchmark-first ports: parity and honest timings before speed claims.
 | **[hifiasm-rs](https://github.com/Jakeelamb/hifiasm-rs)** | hifiasm / hifiasm-UL stage benchmarks before custom assembler code. |
 | **[bowtie2-rs](https://github.com/Jakeelamb/bowtie2-rs)** | Bowtie2 port workspace — lane-by-lane parity before aligner/index core. |
 | **[bbnorm-rs](https://github.com/Jakeelamb/bbnorm-rs)** | BBTools BBNorm-style read-depth normalization. |
-| **[crabp](https://github.com/Jakeelamb/crabp)** | Low-level short-read preprocessing. |
 | **[bio_format_speed](https://github.com/Jakeelamb/bio_format_speed)** | Reproducible checks for biological file-format overhead. |
 
 ---
@@ -65,9 +64,12 @@ Tools designed here, not ported from a single upstream binary.
 
 TUI/CLI tools for the lab machine and Slurm clusters.
 
+**BioDex** and **bioutil** are separate products: BioDex is a taxonomy / notebook / stats TUI; bioutil bootstraps a bioinformatics workstation on fresh Linux installs.
+
 | Project | Focus |
 | --- | --- |
 | **[BioDex](https://github.com/Jakeelamb/BioDex)** | Terminal species atlas — taxonomy browser, cached research notebook, genome-stat lookup. |
+| **[bioutil](https://github.com/Jakeelamb/bioutil)** | Workstation bootstrap for fresh Linux installs (conda, tools, paths). |
 | **[bio-terminal](https://github.com/Jakeelamb/bio-terminal)** | DNA/RNA matrix rain and codon-aware helices (`cargo install bio-terminal`). |
 | **[SWATCH](https://github.com/Jakeelamb/SWATCH)** | Slurm job monitor — real-time status, SSH auth, dark-theme GUI (`pip install swatch-slurm`). |
 
