@@ -13,7 +13,7 @@ Published and in-progress work from academia
 
 ## Rust ports — legacy tools, measured rewrites 🦀
 
-Benchmark-first ports: parity and honest timings before speed claims.
+Agentic attempts at ports
 
 - **[spades-rs](https://github.com/Jakeelamb/spades-rs)** - SPAdes 4.2.0 rewrite workspace with upstream oracles and staged lane promotion.
 - **[hifiasm-rs](https://github.com/Jakeelamb/hifiasm-rs)** - hifiasm / hifiasm-UL stage benchmarks before custom assembler code.
